@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rb" value="name:b_id;datatype:int,name:b_name;datatype:string,name:b_type;datatype:string,name:b_number;datatype:string,name:b_owner;datatype:string,name:b_logo;datatype:string,name:bn_name;datatype:string,name:b_date;datatype:timestamp" />
+</info>

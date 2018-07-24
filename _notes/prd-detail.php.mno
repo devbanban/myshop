@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_prdt" value="name:p_id;datatype:int,name:t_id;datatype:int,name:p_name;datatype:string,name:p_detial;datatype:blob,name:p_price;datatype:real,name:p_qty;datatype:int,name:p_unit;datatype:string,name:p_img;datatype:string,name:p_view;datatype:int,name:date_save;datatype:timestamp" /></info>

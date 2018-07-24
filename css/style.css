@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* data table */
+   	th{
+		text-align:center;
+	}
+
+@media print{
+	#hp{
+		display:none;
+	}
+}

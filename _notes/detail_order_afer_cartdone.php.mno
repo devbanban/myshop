@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_buyer" value="name:mem_id;datatype:int,name:mem_name;datatype:string,name:mem_address;datatype:string,name:mem_tel;datatype:string,name:mem_username;datatype:string,name:mem_password;datatype:string,name:mem_email;datatype:string,name:dateinsert;datatype:timestamp" />
+	<infoitem key="UD_cartdone" value="name:order_id;datatype:int,name:mem_id;datatype:int,name:name;datatype:string,name:address;datatype:string,name:email;datatype:string,name:phone;datatype:string,name:order_status;datatype:int,name:order_date;datatype:datetime" />
+	<infoitem key="UD_rb" value="name:b_id;datatype:int,name:b_name;datatype:string,name:b_type;datatype:string,name:b_number;datatype:string,name:b_owner;datatype:string,name:b_logo;datatype:string,name:bn_name;datatype:string,name:b_date;datatype:timestamp" />
+</info>

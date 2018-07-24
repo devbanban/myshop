@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_listnews" value="name:n_id;datatype:int,name:n_title;datatype:string,name:n_detail;datatype:blob,name:n_img;datatype:string,name:date_save;datatype:timestamp" />
+	<infoitem key="UD_lbk" value="name:b_id;datatype:int,name:b_name;datatype:string,name:b_type;datatype:string,name:b_number;datatype:string,name:b_owner;datatype:string,name:b_logo;datatype:string,name:bn_name;datatype:string,name:b_date;datatype:timestamp" />
+</info>

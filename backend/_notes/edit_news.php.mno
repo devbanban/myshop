@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_editnews" value="name:n_id;datatype:int,name:n_title;datatype:string,name:n_detail;datatype:blob,name:n_view;datatype:int,name:date_save;datatype:timestamp" /></info>
